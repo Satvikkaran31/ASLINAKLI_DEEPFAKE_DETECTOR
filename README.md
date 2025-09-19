@@ -17,4 +17,4 @@ The model leverages a **Gated Fusion mechanism** to efficiently integrate featur
 3. **Gated Fusion Module**: Learns to dynamically weight contributions from each modality  
 4. **Classifier**: Fully connected layers predict fake vs. real news  
 
-## 📂 Project Structure  
+
